@@ -1,0 +1,5 @@
+delete from (select * from AP_INTERFACE_REJECTIONS)
+
+delete AP_INVOICE_LINES_INTERFACE
+
+delete AP_INVOICES_INTERFACE
